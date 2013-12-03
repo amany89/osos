@@ -1,0 +1,6 @@
+.image-thumbnail img
+{
+	cursor: -moz-zoom-in;
+	cursor: -webkit-zoom-in;
+	width:50px;
+}
